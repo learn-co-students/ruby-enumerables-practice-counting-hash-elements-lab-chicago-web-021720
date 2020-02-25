@@ -4,9 +4,10 @@ def count_elements(array)
   h
 end
 
-animals = ['tortoise', 'aye-aye', 'honey badger', 'aye-aye', 'tortoise', 'tortoise']
-h = count_elements(animals)
-p h
-h.each { |k, v| puts "#{k}: #{v}" }
-p count_elements(['sugar glider', 'sloth', 'sloth', 'sloth', 'pig'])
-p count_elements(['tortoise', 'aye-aye', 'honey badger', 'cobra', 'aye-aye', 'aye-aye', 'cobra', 'tortoise', 'tortoise', 'tortoise'])
+# TESTING... TESTING
+# animals = ['tortoise', 'aye-aye', 'honey badger', 'aye-aye', 'tortoise', 'tortoise']
+# h = count_elements(animals)
+# p h
+# h.each { |k, v| puts "#{k}: #{v}" }
+# p count_elements(['sugar glider', 'sloth', 'sloth', 'sloth', 'pig'])
+# p count_elements(['tortoise', 'aye-aye', 'honey badger', 'cobra', 'aye-aye', 'aye-aye', 'cobra', 'tortoise', 'tortoise', 'tortoise'])
